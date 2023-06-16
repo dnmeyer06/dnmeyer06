@@ -3,7 +3,7 @@
 My name is Daniel Meyer, a Front-End Engineer with over 5 years of experience building elegant and performant interfaces for users that delight and inspire. 
 
 :office::lobster:	 Boston born<br />
-:palm_tree::hindu_temple: Living in Bali<br />
+:palm_tree::hindu_temple: Living in Mexico<br />
 
 :man_factory_worker: **Currently working on:** Building language learning tools and resoucres for [Refold Lanugages](https://refold.la/) <br />
 :books: **Learning:** Apollo and GraphQL<br />
