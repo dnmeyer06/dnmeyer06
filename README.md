@@ -32,3 +32,8 @@ CI/CD: CircleCI
 Task Management: Jira, Monday.com
 Cloud Services: AWS, Netlify
 Other: Firebase, Stripe, Pipedrive, Mixpanel, Auth0, Serverless, Terraform, Leaflet
+
+📫 Contact Me
+LinkedIn: [Daniel Meyer](https://www.linkedin.com/in/dnmeyer06/)
+Email: dnmeyer06@gmail.com
+Portfolio: DanMDesigns.com
